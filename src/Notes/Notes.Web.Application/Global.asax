@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Blueprints.Notes.Web.Application.NotesApplication" Language="C#" %>
